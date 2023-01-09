@@ -31,5 +31,5 @@ _Open source dashboard developed for the [Identifying Resilience Factors in Texa
        * [openpyxl](https://anaconda.org/anaconda/openpyxl) package: ```conda install -c anaconda openpyxl```
        * [plotly express](https://anaconda.org/plotly/plotly_express) package: ```conda install -c plotly plotly_express```
   3. close the anaconda prompt and open it up as a regular user , type ```>>jupyter notebook```
-     * navigate in the browser to this folder and double click on the [JointDashboard.ipynb](JointDashboardh.ipynb) or [District_CountyDashboard.ipynb](District_CountyDashboard.ipynb) to open them (separate windows will open)
+     * navigate in the browser to this folder and double click on the file [LearningLossDashboard.ipynb](LearningLossDashboard.ipynb) to open it (separate windows will open)
      * in separate windows, click `Cell` on the top taskbar and then `Run All`. This will open the the tabbed dashboard.
