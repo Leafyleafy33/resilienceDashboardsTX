@@ -11,13 +11,12 @@ _Open source dashboard developed for the [Identifying Resilience Factors in Texa
 
 
 ## Jupyter Notebooks for Texas Open Source Data
-* [JointDashboard](JointDashboard.ipynb) -> outputs 2 tabs
-    * Tab 1 displays a set of three county-level maps of Texas which reflect percent changes in Staff/Student population, STAAR testing scores, and the workforce from 2019 to 2021.
-    * Tab 2 displays a histogram of the percent changes in STAAR scores along with a heatmap that models change based on demographic group and grade from 2019 to 2021.
+* [LearningLossDashboard](LearningLossDashboard.ipynb) -> outputs 4 tabs
+    * Tab 1 displays a county-level map of Texas which reflects percent changes in Staff/Student population, STAAR testing scores, and the labor force from 2019 to 2021.
+    * Tab 2 displays a district-level map of Texas which reflects percent changes in Staff/Student population, STAAR testing scores, and also learning loss labels from 2019 to 2021.
+    * Tab 3 displays a histogram of the percent changes in STAAR scores along with a heatmap that models change based on demographic group and grade from 2019 to 2021.
+    * Tab 4 displays a definition table of all variables used within the dashboard.
 * [District_CountyDashboard](District_CountyDashboard.ipynb) -> outputs 3 tabs
-    *  Tab 1 displays a set of nine district-level maps of the highest population counties in Texas which reflect percent changes in Staff/Student population, STAAR testing scores, and the most influential features for these STAAR changes.
-    *  Tab 2 displays a set of nine district-level maps of counties along the I-35 Austin area in Texas which reflect percent changes in Staff/Student population, STAAR testing scores, and the most influential features for these STAAR changes.
-    *  Tab 3 displays a district-level map of Texas which reflects percent changes in Staff/Student population, STAAR testing scores, and the most influential features for these STAAR changes.
 
 ## SETUP
   1. Download Anaconda/Juptyer Notebook for your device's operating system from [here](https://www.anaconda.com/products/distribution#Downloads)
