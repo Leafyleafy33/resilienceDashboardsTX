@@ -3,10 +3,12 @@
 
 _Open source dashboard developed for the [Identifying Resilience Factors in Texas Public Schools](2022Fall-CHERR-Poster.pdf) project_  by [Daniel Payan](https://github.com/danielpayan13) (dashboard author), [June Yu](https://j-y-yu.github.io/), ([data integration and modeling](https://github.com/DataLab12/educationDataScience)), [Li Feng](https://lifeng.wp.txstate.edu/) (domain expert), and [Jelena Tešić](jtesic.github.io) (project lead). The work has been supported by [The Center of Excellence for Community Health and Economic Resilience Research](https://www.cherr.txst.edu/) and [Data Lab](https://DataLab12.github.io) @ Texas State University.
 
+![image](https://user-images.githubusercontent.com/87658834/211226776-9752ff91-5155-4490-9340-4b20241aaa15.png)
+![image](https://user-images.githubusercontent.com/87658834/211226780-a75b2d64-8dd1-4d8f-8f34-46d01a24f92c.png)
+![image](https://user-images.githubusercontent.com/87658834/211226781-f1d5c36b-df33-43b5-bca9-e87d01c67621.png)
+![image](https://user-images.githubusercontent.com/87658834/211226783-eb6b54df-d7b7-421a-beb3-bcb0533975d7.png)
 
- ![image](https://user-images.githubusercontent.com/87658834/199155960-24a4f35a-72bc-495a-baa3-e24f7a0601b7.png)
- ![image](https://user-images.githubusercontent.com/87658834/199156064-80a212ba-c5be-4443-aaf1-c62eef961e20.png)
- ![image](https://user-images.githubusercontent.com/87658834/199156106-826ca934-c887-4315-8d26-a331b53b5f96.png)
+
 
 ## Jupyter Notebooks for Texas Open Source Data
 * [JointDashboard](JointDashboard.ipynb) -> outputs 2 tabs
