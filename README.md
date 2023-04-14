@@ -9,7 +9,7 @@ _Open source dashboard developed for the [Identifying Resilience Factors in Texa
 
 ![image](https://media.git.txstate.edu/user/1705/files/e8271a6a-d2cd-4438-88a6-1c10a6e441d0)
 
-![image](https://media.git.txstate.edu/user/1705/files/0e2cfb72-54e2-43b6-b639-5751b341e899)
+![image](https://user-images.githubusercontent.com/87658834/232119782-b2a6b259-8097-48ba-ae02-c60a52e18a8f.png)
 
 ![image](https://media.git.txstate.edu/user/1705/files/c2ea0a3d-74fc-4300-920f-d9d5d145329c)
 
