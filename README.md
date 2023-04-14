@@ -3,6 +3,8 @@
 
 _Open source dashboard developed for the [Identifying Resilience Factors in Texas Public Schools](2022Fall-CHERR-Poster.pdf) project_  by [Daniel Payan](https://github.com/danielpayan13) (dashboard author), [June Yu](https://j-y-yu.github.io/), ([data integration and modeling](https://github.com/DataLab12/educationDataScience)), [Li Feng](https://lifeng.wp.txstate.edu/) (domain expert), and [Jelena Tešić](jtesic.github.io) (project lead). The work has been supported by [The Center of Excellence for Community Health and Economic Resilience Research](https://www.cherr.txst.edu/) and [Data Lab](https://DataLab12.github.io) @ Texas State University.
 
+## LearningLossDashboard
+
 ![image](https://media.git.txstate.edu/user/1705/files/151fb0a6-9e9e-4cf5-8397-43c78586660a)
 
 ![image](https://media.git.txstate.edu/user/1705/files/e8271a6a-d2cd-4438-88a6-1c10a6e441d0)
@@ -10,6 +12,8 @@ _Open source dashboard developed for the [Identifying Resilience Factors in Texa
 ![image](https://media.git.txstate.edu/user/1705/files/0e2cfb72-54e2-43b6-b639-5751b341e899)
 
 ![image](https://media.git.txstate.edu/user/1705/files/c2ea0a3d-74fc-4300-920f-d9d5d145329c)
+
+## GradeDemo_Dashboard
 
 ![image](https://user-images.githubusercontent.com/87658834/232095006-7e8f919c-3850-43f1-ba08-db4ac3556649.png)
 
