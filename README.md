@@ -24,7 +24,7 @@ _Open source dashboard developed for the [Identifying Resilience Factors in Texa
     * Tab 2 displays a district-level map of Texas which reflects percent changes in Staff/Student population STAAR testing scores, and funding for three different year ranges (2019-2021, 2021-2022, 2019-2022).
     * Tab 3 displays a histogram of the percent changes in STAAR scores for three different year ranges (2019-2021, 2021-2022, 2019-2022), along with a heatmap that models change based on demographic group and grade for the three different year ranges.
     * Tab 4 displays a definition table of all variables used within the dashboard.
-<br> 
+ 
 * [GradeDemo_Dashboard](GradeDemo_Dashboard.ipynb) -> outputs 2 tabs
     * Tab 1 displays a county-level map of Texas which reflects percent changes in Staff/Student population and STAAR testing scores for three different year ranges (2019-2021, 2021-2022, 2019-2022) based on demographic and grade level.
     * Tab 2 displays a heatmap that models change based on demographic group and grade for the three different year ranges.
