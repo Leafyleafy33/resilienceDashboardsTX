@@ -36,6 +36,9 @@ _Open source dashboard developed for the [Identifying Resilience Factors in Texa
     * Tab 2 displays a heatmap that models change based on demographic group and grade for the three different year ranges.
     * Tab 3 displays a county-level map of Texas which reflects financial information for 2021, to gain context into an area's income levels, annual pay, and percentage of population in poverty. 
 
+## Ranking Resilience
+![image](https://user-images.githubusercontent.com/87658834/236877067-6af2f479-73d8-434d-8599-c86de61f4e9c.png)
+
 ## SETUP
   1. Download Anaconda/Juptyer Notebook for your device's operating system from [here](https://www.anaconda.com/products/distribution#Downloads)
   2. Run Anaconda Prompt app with administrative privileges
