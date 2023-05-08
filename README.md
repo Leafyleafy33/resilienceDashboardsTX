@@ -18,6 +18,8 @@ _Open source dashboard developed for the [Identifying Resilience Factors in Texa
 ![image](https://user-images.githubusercontent.com/87658834/232095006-7e8f919c-3850-43f1-ba08-db4ac3556649.png)
 
 ![image](https://user-images.githubusercontent.com/87658834/232095291-d288a16c-e0bc-48d6-a306-2cc70c996539.png)
+![image](https://user-images.githubusercontent.com/87658834/236869830-302b8b3c-0d1d-473d-9ca3-07a62d37600a.png)
+
 
 
 
@@ -32,6 +34,7 @@ _Open source dashboard developed for the [Identifying Resilience Factors in Texa
 * [GradeDemo_Dashboard](GradeDemo_Dashboard.ipynb) -> outputs 2 tabs
     * Tab 1 displays a county-level map of Texas which reflects percent changes in Staff/Student population and STAAR testing scores for three different year ranges (2019-2021, 2021-2022, 2019-2022) based on demographic and grade level.
     * Tab 2 displays a heatmap that models change based on demographic group and grade for the three different year ranges.
+    * Tab 3 displays a county-level map of Texas which reflects financial information for 2021, to gain context into an area's income levels, annual pay, and percentage of population in poverty. 
 
 ## SETUP
   1. Download Anaconda/Juptyer Notebook for your device's operating system from [here](https://www.anaconda.com/products/distribution#Downloads)
