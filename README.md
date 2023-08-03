@@ -46,7 +46,7 @@ _Open source dashboard developed for the [Identifying Resilience Factors in Texa
        * answer Yes to install all packages   
      * install needed packages as follows: 
        * the [bokeh](https://anaconda.org/bokeh/jupyter_bokeh) package: ```>>conda install -c bokeh jupyter_bokeh```
-       * the [hv_plot](https://anaconda.org/conda-forge/hvplot), the [panel](https://anaconda.org/conda-forge/panel), and [geopandas](https://anaconda.org/conda-forge/geopandas-base) packages: ```>>conda install -c conda-forge hvplot panel geopandas-base```
+       * the [hv_plot](https://anaconda.org/conda-forge/hvplot), the [panel](https://anaconda.org/conda-forge/panel), and [geopandas](https://anaconda.org/conda-forge/geopandas-base) packages: ```>>conda install -c conda-forge hvplot panel geopandas-base plotly openpyxl fiona pyogrio```
 
   3. close the anaconda prompt and open it up as a regular user , type ```>>jupyter notebook```
      * navigate in the browser to this folder and double click on the file [LearningLossDashboard.ipynb](LearningLossDashboard.ipynb) to open it (separate windows will open)
